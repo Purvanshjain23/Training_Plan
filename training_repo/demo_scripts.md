@@ -1,6 +1,4 @@
-# Demo Scripts for Live Walkthrough
-
-These scripts outline step‑by‑step demonstrations you can perform during a live training session.  Use them as a guide to showcase the capabilities of GitHub Copilot, RooCode and prompt engineering.  Feel free to customise the examples based on the audience’s language preferences and existing projects.
+# Live Session Demo
 
 ## Demo 1  From Bad to Good Code (Python)
 
@@ -58,10 +56,3 @@ These scripts outline step‑by‑step demonstrations you can perform during a l
 3. Review the generated files (models, endpoints, README).  Discuss how well the AI interpreted the BRD.
 4. Ask Copilot to generate unit tests and a Mermaid diagram for the data flow.
 
-## Tips for Presenters
-
-* **Slow down** – Speak clearly and pause between steps.  Demonstrate typing and ask the audience to follow along.
-* **Explain your thought process** – Describe why you write a particular prompt and how you expect the AI to respond.
-* **Iterate** – If the AI’s output isn’t correct, show how you refine the prompt.  This teaches the audience how to troubleshoot.
-* **Highlight algorithms** – Remind the audience to understand the underlying algorithm before asking the AI to implement it.
-* **Encourage questions** – Pause after each demo to take questions or comments.  The goal is to build confidence and curiosity.
