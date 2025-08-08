@@ -5,7 +5,7 @@ This repository accompanies the **GitHub Copilot**, **RooCode** and **Prompt En
 ## Structure
 
 ```
-training_repo_final/
+training_repo/
 ├── README.md                # this file
 ├── python_examples/         # Python source files for exercises
 │   ├── data_processing.py    # functions for statistics and data manipulation
@@ -32,7 +32,6 @@ training_repo_final/
 1. **Clone this repository** locally or open it directly in VS Code.
 2. Review the training plans for Copilot, RooCode and Prompt Engineering.
 3. Work through the exercises in `training_exercises.md` using GitHub Copilot or RooCode.  Write clear prompts based on the guidelines, then review and iterate on the results.
-4. Use the prompts in `prompt_library.md` as templates, adjusting them to suit your tasks.
-5. For the Java migration example, examine the difference between the `legacy_java` and `modern_java` versions.  Use Copilot’s Agents or RooCode’s Orchestrator Mode to perform the migration yourself.
+4. For the Java migration example, examine the difference between the `legacy_java` and `modern_java` versions.  Use Copilot’s Agents or RooCode’s Orchestrator Mode to perform the migration yourself.
 
 By completing these exercises you will gain hands‑on experience with AI‑assisted development and learn how to craft effective prompts.
